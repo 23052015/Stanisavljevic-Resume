@@ -7,3 +7,4 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+ <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBGXhUcBmPz_3C0Ixk8z_shFfhy1pGNHXE&callback=initMap"></script>
